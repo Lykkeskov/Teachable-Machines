@@ -1,0 +1,1 @@
+# Script for running with an image as input
